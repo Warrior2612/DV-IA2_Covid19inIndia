@@ -5,17 +5,17 @@ This Repository contains the statistical analysis of Covid-19 in India from 30/1
 ## Analysis and Visualizations
  
 
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/1.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/2.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/3.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/4.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/5.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/6.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/7.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/8.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/9.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/10.png)
-![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/images/11.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/1.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/2.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/3.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/4.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/5.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/6.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/7.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/8.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/9.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/10.png)
+![Nav Bar](https://github.com/Warrior2612/DV-IA2_Covid19inIndia/blob/main/screenshots/11.png)
 
 
 ## Contributors
