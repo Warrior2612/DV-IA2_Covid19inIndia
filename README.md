@@ -1,4 +1,4 @@
-# Tableau - A Story on Covid-19 in India
+# A Story on Covid-19 in India
 
 This Repository contains the statistical analysis of Covid-19 in India from 30/1/2020 to 6/8/2020. This was done for the course work of Data Visualization IA-2 using Tableau during my 2nd year of engineering. I've attached all the screenshots below regarding the visualization .
 
